@@ -16,7 +16,7 @@ You can install Alvin's version of powers from github with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("STAT545-UBC-students/hw07-alvin-q/powers-master")
+devtools::install_github("STAT545-UBC-students/hw07-alvin-q/powers")
 ```
 
 Example
