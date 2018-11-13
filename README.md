@@ -19,4 +19,4 @@ We can see that these functions pass our new set of tests.
 
 Also, we can check the package. There are no errors.
 
-![Check package](https://github.com/STAT545-UBC-students/hw07-alvin-q/blob/master/screenshots/pacakge_check.PNG)
+![Check package](https://github.com/STAT545-UBC-students/hw07-alvin-q/blob/master/screenshots/package_check.PNG)
