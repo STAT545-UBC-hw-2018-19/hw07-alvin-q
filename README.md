@@ -20,3 +20,11 @@ We can see that these functions pass our new set of tests.
 Also, we can check the package. There are no errors.
 
 ![Check package](https://github.com/STAT545-UBC-students/hw07-alvin-q/blob/master/screenshots/package_check.PNG)
+
+The README for the power's package is also updated. It also includes installation instructions.
+
+![Check package](https://github.com/STAT545-UBC-students/hw07-alvin-q/blob/master/screenshots/readme_update.PNG)
+
+The vignette has also been updated to include examples of these log functions.
+
+![Vignette](https://github.com/STAT545-UBC-students/hw07-alvin-q/blob/master/screenshots/vignette.PNG)
