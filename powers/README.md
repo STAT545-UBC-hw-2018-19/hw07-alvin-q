@@ -29,6 +29,16 @@ powers::reciprocal(2)
 #> [1] 0.5
 ```
 
+As my homework expansion, I've added logarithm functions. More can be fouund in the vignettes, but here is an example:
+
+``` r
+powers::log3(1:10)
+#>  [1] 0.0000000 0.6309298 1.0000000 1.2618595 1.4649735 1.6309298 1.7712437
+#>  [8] 1.8927893 2.0000000 2.0959033
+powers::log5(25)
+#> [1] 2
+```
+
 For Developers
 --------------
 

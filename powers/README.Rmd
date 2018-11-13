@@ -37,6 +37,14 @@ See the vignette for more extensive use, but here's an example:
 powers::reciprocal(2)
 ```
 
+As my homework expansion, I've added logarithm functions. More can be fouund in the vignettes, but here is an example:
+
+```{r example 2}
+powers::log3(1:10)
+powers::log5(25)
+```
+
+
 ## For Developers
 
 (Again, I don't actually intend for anyone to develop this silly package, but if I did, here's what I'd write.)
